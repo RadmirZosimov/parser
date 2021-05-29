@@ -1,4 +1,4 @@
-#  Universal parser for websites
+#  30sec parser for websites
 Universal parser. You should change a few arguments for your own parser!
 
 That's so easy to do!
